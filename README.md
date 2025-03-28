@@ -1,7 +1,3 @@
-# SQL Bitirme Projesi
-
-## Slide 1: Başlık
-
 **SQL BITIRME PROJESI**  
 TECHCAREER  
 NESRİN DÜZGÜN  
@@ -9,7 +5,7 @@ NESRİN DÜZGÜN
 Anahtar Kelimeler: **SQL, MSSQL, RDBMS, GITHUB**
 
 
-## Slide 3: Giriş
+## Giriş
 
 Bu sunumda, **Northwind veritabanı** üzerinde çalıştırılması gereken **24 farklı sorunun çözümlerini** anlatacağım. 
 
@@ -24,7 +20,7 @@ Her bir çözümü detaylıca açıklayarak, nasıl ve neden bu yöntemleri kull
 
 ---
 
-## Slide 4: Kullanılan Veritabanı
+## Kullanılan Veritabanı
 
 **Northwind Veritabanı** 
 
@@ -40,7 +36,7 @@ Her bir çözümü detaylıca açıklayarak, nasıl ve neden bu yöntemleri kull
 
 ---
 
-## Slide 5: Örnek SQL Sorgusu
+## Örnek SQL Sorgusu
 
 **Siparişlerin Toplam Tutarı:**
 
@@ -55,7 +51,7 @@ GROUP BY OD.OrderID
 
 ---
 
-## Slide 6: Sonuç ve Öneriler
+## Sonuç ve Öneriler
 
 - SQL'in temel ve ileri düzey sorguları nasıl kullanılacağını öğrendim.
 - **VIEW, TRIGGER ve PROCEDURE** gibi yapıları Northwind veritabanında test ettim.
